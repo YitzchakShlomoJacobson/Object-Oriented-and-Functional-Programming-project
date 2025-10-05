@@ -399,10 +399,9 @@ def main():
 
         init_fixtures(manager)
         print("fixtures loaded")
-
-
 if __name__ == "__main__":
     main()
+
 
 """Unit tests for Habit class streak logic."""
 
